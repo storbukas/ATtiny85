@@ -49,7 +49,7 @@ In the realm of microcontrollers, the 'Hello World' equivalent is a simple 'Blin
 
 The following sketch toggles an LED connected to pin PB1 (physical pin 6, see the [pinout diagram](#pin-diagram-of-attiny85)).
 
-```c_cpp
+```cpp
 void setup() {
   pinMode(1, OUTPUT);
 }
